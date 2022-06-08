@@ -1,4 +1,4 @@
-[![MasterHead](./profile_banner.png)]()
+[![MasterHead](./banner_profile.png)]()
 <h1 align="center"></h1>
 
 <h3>A passionate computer science student and developer based in Belgium</h3>
