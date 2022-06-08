@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
 <h3 align="center">A passionate computer science student and developer based in Belgium</h3>
 
+<img align="right" alt="mario" width="auto" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubaitcheikhahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubaitcheikhahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubaitcheikhahmed" alt="ayoubaitcheikhahmed" /></a> </p>
